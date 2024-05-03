@@ -1,0 +1,15 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_7_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_3_blur">
+   <feGaussianBlur stdDeviation="10" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect filter="url(#svg_3_blur)" stroke="#6016af" id="svg_3" height="503.38941" width="801.69425" y="-1.69518" x="-1.69531" fill="#b60cc9"/>
+  <ellipse stroke="#ffffff" filter="url(#svg_7_blur)" opacity="0.5" ry="205.53737" rx="213.62749" id="svg_7" cy="-19.27156" cx="639.88855" fill="#f7f7f7"/>
+ </g>
+</svg>
